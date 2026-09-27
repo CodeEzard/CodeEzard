@@ -24,10 +24,10 @@ Backend engineer & final-year CS student, building distributed systems and scala
 | Project | Description | Stack |
 |---|---|---|
 | **[Argus](https://github.com/CodeEzard)** | Self-hostable infrastructure monitoring CLI with statistical anomaly detection (z-score, trend, rate-of-change) and root-cause correlation across metrics | `Go` `Prometheus` `SQLite` |
-| **[VeriCred](https://github.com/CodeEzard)** | Decentralized credentialing platform issuing Polygon NFTs for tamper-proof academic/professional verification | `Go` `Solidity` `Polygon` `React` `IPFS` |
-| **[VoIPTracer](https://voip-tracer-r033um2jg-codeezards-projects.vercel.app/)** | Analyzes VoIP metadata (SIP/RTP/TLS) from pcap files for anomaly and suspicious-call detection, without decrypting SRTP/TLS | `Python` `FastAPI` `ML` `Docker` |
-| **[NoCloudBS](https://nocloudbs.pages.dev)** | Suite of privacy-first, client-side web utilities (image compressor, HEIC converter, PDF compressor) — zero server uploads, near-100 Lighthouse score | `React` `Vite` `Tailwind` |
 | **RSS Feed Platform** | RSS aggregation backend with automated scraping and background workers for periodic sync | `Go` `PostgreSQL` `REST` |
+| **[PatentPulse](https://patent-pulse-sigma.vercel.app)** | Full-stack technology intelligence and patent analytics platform monitoring filing velocity, citation momentum, and cross-domain innovation trajectories across emerging tech sectors | `Django REST Framework` `Vue 3` `Chart.js` |
+| **[VeriCred](https://github.com/CodeEzard)** | Decentralized credentialing platform issuing Polygon NFTs for tamper-proof academic/professional verification | `Go` `Solidity` `Polygon` `React` `IPFS` |
+
 
 ---
 
