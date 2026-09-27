@@ -44,15 +44,3 @@ Backend engineer & final-year CS student, building distributed systems and scala
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeEzard&show_icons=true&theme=default&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeEzard&theme=default" alt="GitHub streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeEzard&layout=compact&theme=default" alt="Top languages">
-</p>
